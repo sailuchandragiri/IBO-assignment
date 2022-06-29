@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+  }
+  
+  .main{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .uniqcount{
+    border-radius: 5px;
+    background-color: aqua;
+    color: purple;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-color: purple;
+  }
